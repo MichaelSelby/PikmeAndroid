@@ -20,9 +20,9 @@
         <ImageView
             android:background="@drawable/pikmelogoblack"
             android:layout_gravity="center_horizontal"
-            android:layout_width="307dp"
-            android:layout_height="wrap_content"
-            />
+            android:layout_width="294dp"
+            android:layout_height="122dp"
+            android:layout_weight="0.03" />
 
         <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
